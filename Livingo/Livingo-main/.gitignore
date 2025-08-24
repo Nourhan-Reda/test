@@ -1,0 +1,29 @@
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Logs
+*.log
+
+# Temp / cache
+.cache/
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Build / dist (in case you add bundlers later)
+dist/
+build/
+
+# IDE configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Node modules (if you install npm packages in future)
+node_modules/
